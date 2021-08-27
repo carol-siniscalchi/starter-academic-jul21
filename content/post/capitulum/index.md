@@ -33,4 +33,4 @@ authors:
 
 ---
 
-This summer The International Compositae Alliance (TICA) rebooted their newsletter, once known as Compositae Newsletter, now named Capitulum. The first volume is out and free to read at the TICA website (www.compositae.org/capitulum.php). The Capitulum has an ISSN now, and will be opening for submissions soon. If you have Compositae research looking for a home, you should consider it!
+This summer The International Compositae Alliance (TICA) rebooted their newsletter, once known as Compositae Newsletter, now named Capitulum. The first volume is out and free to read at the TICA website (compositae.org). The Capitulum has an ISSN now, and will be opening for submissions soon. If you have Compositae research looking for a home, you should consider it!
