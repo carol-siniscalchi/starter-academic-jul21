@@ -40,4 +40,4 @@ At Botany, we also taught a workshop about Biodiversity Data Wrangling. The work
 I also had time to roam around my corner of the state, both on foot and on my kayak! I also saw for the first time the three-birds orchid, Triphora trianthophoros, an elusive little terrestrial orchid native to the US. In my roamings, I also rescued a little kitty (now much bigger and rambunctious) from the parking lot of my local grocery store, which we named Bobbie Cat. 
 Thank you for stopping by! I hope your summer was good too!
 
-{{< gallery album="<summer2022>" >}}
+{{< gallery album="summer2022" >}}
